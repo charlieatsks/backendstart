@@ -25,5 +25,8 @@ echo "Value: ". myCalculator($num01, $oper, $num02);
 /*  
 tihs is the php files ,
 and it will get move file in future.
-
 */
+
+// it has problem with connenting it will be solved later
+
+
