@@ -1,9 +1,17 @@
-
-
 <?php
 
-// if statement practice
+//there are 3 different types of comment in PHP
 
+/*
+This is a multi-line comment
+that can contain several sentences
+or paragraphs
+*/
+// This is a single-line comment
+# This is also a single-line comment
+
+
+// if statement practice
 $t = date("H");
 
 if ($t < "20") {
