@@ -1,7 +1,7 @@
 <?php
 
 /*
-Loops - 
+Loops - and their types with example -
 For loop
 While loop
 Do While loop
