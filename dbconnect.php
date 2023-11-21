@@ -24,6 +24,7 @@
 	else { 
 		die("Error". mysqli_connect_error()); 
 	} 
+// database is working fine, remember the database name
 ?> 
 
 
